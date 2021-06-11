@@ -1,3 +1,3 @@
 [submodule "SingletonKitProject/Packages/amabie"]
 	path = SingletonKitProject/Packages/amabie
-	url = git@github.com:amabie-mamoru/unity-singleton-kit.git
+	url = git@github.com:amabie-mamoru/singleton-kit.git
